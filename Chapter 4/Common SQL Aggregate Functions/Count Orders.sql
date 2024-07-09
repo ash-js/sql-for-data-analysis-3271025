@@ -1,2 +1,2 @@
-SELECT COUNT(CustomerID)
+SELECT CustomerID
 from Orders;
